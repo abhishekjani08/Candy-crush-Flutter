@@ -4,7 +4,7 @@ import 'package:flutter_crush/helpers/audio.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-void main() async {
+void main() {
   //
   // Initialize the audio
   // await Audio.init();
